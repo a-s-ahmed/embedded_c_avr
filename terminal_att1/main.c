@@ -1,6 +1,8 @@
 #include <avr/io.h>
 #define BAUD 0x33
 
+//all you need is an arduino for this one, no setup required!
+
 
 void initialize_usart_serial(void){
     //set baud rate to 19200 and init our serial comms
