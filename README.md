@@ -7,8 +7,10 @@ For now, to see results just follow instructions within the comments of the code
 
 TODOS: 
 
-finish setting up atmel visual studio so i can build my projects and have better code structure
+~~finish setting up atmel visual studio so i can build my projects and have better code structure~~ completed
 
-acquire an uno, or check to ensure the Mega i have will work
+~~acquire an uno, or check to ensure the Mega i have will work~~ Mega will work with everything
 
 Look into manual for ATmega328p more ideas, think of projects involving more IO, more i2c/SPI, GPBIO, and bluetooth connectivity with more complex structure.
+
+Do simple memory management. Maybe a small game for the gameboy, isnt that in C? just to test my memory management knowledge. Also create test to see if the whole memory alignment = faster but more storage used  is true??
